@@ -1,0 +1,3 @@
+# Uncommon Python Error: Handling ZeroDivisionError and TypeError
+
+This example showcases a scenario where a Python function needs to handle both `ZeroDivisionError` and `TypeError` exceptions gracefully.  It returns different error messages depending on the exception raised, providing more specific feedback to the user.  This is an uncommon error because it typically requires more sophisticated error handling than a basic `try-except` block.
